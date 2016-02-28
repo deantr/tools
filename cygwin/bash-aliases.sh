@@ -14,5 +14,7 @@ a gc='git checkout'
 a gb='git branch'
 a gbr='git branch --remote'
 a ga='git add'
+a gpom='git push origin master'
+a gpod='git push origin develop'
 
 
